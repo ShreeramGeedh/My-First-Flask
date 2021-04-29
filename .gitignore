@@ -1,2 +1,10 @@
 .env.example
 .env
+
+
+# Python:
+*.pyc
+venv
+
+# My configurations:
+__pycache__
